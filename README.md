@@ -6,11 +6,12 @@
   Senior Unity Developer. VR | XR | GAMES
 </p>
 
-<img src="images/icons/unity2.svg" width="64"/>
-<img src="images/icons/unity.svg" width="64"/>
+[<img alt="Web-site" width="40px" src="images/icons/website.svg"/>](https://andriihorlov.github.io/)
+[<img alt="LinkedIn" width="40px" src="images/icons/linkedin.svg"/>](https://www.linkedin.com/in/fidgetik/) 
+[<img alt="Asset Store" width="40px" src="images/icons/unity.svg"/>](https://assetstore.unity.com/publishers/94841)
 
-  WORK: [Web-Site](https://andriihorlov.github.io/) | [LinkedIn](https://www.linkedin.com/in/fidgetik/) | [Asset Store](https://assetstore.unity.com/publishers/94841)
-  <br>LIFE: [Instagram](https://www.instagram.com/fidgetik/) | [YouTube](https://www.youtube.com/@fidgetpk)
+[<img alt="YouTube" width="40px" src="images/icons/youtube.svg"/>](https://www.youtube.com/@fidgetpk)
+[<img alt="Instagram" width="40px" src="images/icons/instagram.svg"/>](https://www.instagram.com/fidgetik/)
 
   <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/andriihorlov&style=default" alt="visitor_badge">
 <!--
