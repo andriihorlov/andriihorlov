@@ -2,8 +2,8 @@
   Hi <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width=32 height=32>, I'm Andrii Horlov
 </h1>
 
-<img src="images/icons/unity2.svg" width="128"/>
-<img src="images/icons/unity.svg" width="128"/>
+<img src="images/icons/unity2.svg" width="64"/>
+<img src="images/icons/unity.svg" width="64"/>
 
 <p align="center">
   Senior Unity Developer. VR | XR | GAMES
