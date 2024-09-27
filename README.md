@@ -42,6 +42,12 @@ With a deep understanding of Unity's ecosystem, I focus on simplifying workflows
 ![Android/IOS publishing](https://img.shields.io/badge/Android/IOS_publishing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Unity Editor Customization](https://img.shields.io/badge/Unity_Editor_Customization-292A2B?style=for-the-badge&logo=unity&logoColor=white)
 
+<a href="https://www.buymeacoffee.com/fidgetik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
+
+
+
+
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriihorlov&layout=compact&theme=radical" alt="Andrii's Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=andriihorlov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical" alt="Andrii's GitHub Stats"/>
