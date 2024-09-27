@@ -6,7 +6,13 @@
   Senior Unity Developer | VR/XR Specialist | Passionate about immersive technologies
 </p>
 
+I specialize in creating innovative VR/XR applications, Unity tools, and immersive experiences. 
+With a deep understanding of Unity's ecosystem, I focus on simplifying workflows for developers and creating engaging experiences for users.
+
+##
 <div align="center">
+  <h3>Stay connected!</h3>
+
   <a href="https://andriihorlov.github.io/"><img alt="Web-site" width="40px" src="images/icons/website.svg"/></a>
   <a href="https://www.linkedin.com/in/fidgetik/"><img alt="LinkedIn" width="40px" src="images/icons/linkedin.svg"/></a>
   <a href="https://assetstore.unity.com/publishers/94841"><img alt="Asset Store" width="40px" src="images/icons/unity.svg"/></a>
@@ -14,6 +20,8 @@
   <a href="https://www.youtube.com/@fidgetpk"><img alt="YouTube" width="40px" src="images/icons/youtube.svg"/></a>
   <a href="https://www.instagram.com/fidgetik/"><img alt="Instagram" width="40px" src="images/icons/instagram.svg"/></a>
 </div>
+
+##
 
 ### 🛠 Skills & Tools
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
