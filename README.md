@@ -6,12 +6,15 @@
   Senior Unity Developer. VR | XR | GAMES
 </p>
 
-[<img alt="Web-site" width="40px" src="images/icons/website.svg"/>](https://andriihorlov.github.io/)
-[<img alt="LinkedIn" width="40px" src="images/icons/linkedin.svg"/>](https://www.linkedin.com/in/fidgetik/) 
-[<img alt="Asset Store" width="40px" src="images/icons/unity.svg"/>](https://assetstore.unity.com/publishers/94841)
+<div align="center">
+  <a href="https://andriihorlov.github.io/"><img alt="Web-site" width="40px" src="images/icons/website.svg"/></a>
+  <a href="https://www.linkedin.com/in/fidgetik/"><img alt="LinkedIn" width="40px" src="images/icons/linkedin.svg"/></a>
+  <a href="https://assetstore.unity.com/publishers/94841"><img alt="Asset Store" width="40px" src="images/icons/unity.svg"/></a>
+  <img width="40px" src="images/icons/separator.png"/>
+  <a href="https://www.youtube.com/@fidgetpk"><img alt="YouTube" width="40px" src="images/icons/youtube.svg"/></a>
+  <a href="https://www.instagram.com/fidgetik/"><img alt="Instagram" width="40px" src="images/icons/instagram.svg"/></a>
+</div>
 
-[<img alt="YouTube" width="40px" src="images/icons/youtube.svg"/>](https://www.youtube.com/@fidgetpk)
-[<img alt="Instagram" width="40px" src="images/icons/instagram.svg"/>](https://www.instagram.com/fidgetik/)
 
   <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/andriihorlov&style=default" alt="visitor_badge">
 <!--
