@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi👋 I'm Andrii Horlov
+  Hi <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width=32 height=32>, I'm Andrii Horlov
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
   WORK: [Web-Site](https://andriihorlov.github.io/) | [LinkedIn](https://www.linkedin.com/in/fidgetik/) | [Asset Store](https://assetstore.unity.com/publishers/94841)
   <br>LIFE: [Instagram](https://www.instagram.com/fidgetik/) | [YouTube](https://www.youtube.com/@fidgetpk)
 
-
+  <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/andriihorlov&style=default" alt="visitor_badge">
 <!--
 **andriihorlov/andriihorlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
