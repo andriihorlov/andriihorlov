@@ -2,12 +2,12 @@
   Hi <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width=32 height=32>, I'm Andrii Horlov
 </h1>
 
-<img src="images/icons/unity2.svg" width="64"/>
-<img src="images/icons/unity.svg" width="64"/>
-
 <p align="center">
   Senior Unity Developer. VR | XR | GAMES
 </p>
+
+<img src="images/icons/unity2.svg" width="64"/>
+<img src="images/icons/unity.svg" width="64"/>
 
   WORK: [Web-Site](https://andriihorlov.github.io/) | [LinkedIn](https://www.linkedin.com/in/fidgetik/) | [Asset Store](https://assetstore.unity.com/publishers/94841)
   <br>LIFE: [Instagram](https://www.instagram.com/fidgetik/) | [YouTube](https://www.youtube.com/@fidgetpk)
