@@ -6,7 +6,7 @@
   Senior Unity Developer. VR | XR | GAMES
 </p>
 
-  WORK: [Web-Site](https://andriihorlov.github.io/) | [LinkedIn](https://www.linkedin.com/in/fidgetik/)
+  WORK: [Web-Site](https://andriihorlov.github.io/) | [LinkedIn](https://www.linkedin.com/in/fidgetik/) | [Asset Store](https://assetstore.unity.com/publishers/94841)
   <br>LIFE: [Instagram](https://www.instagram.com/fidgetik/) | [YouTube](https://www.youtube.com/@fidgetpk)
 
 
